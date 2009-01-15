@@ -1,0 +1,20 @@
+body {
+  position: absolute;
+  left: 17%;
+  width: 500px;
+}
+
+.nav, .disclamier {text-align: center;}
+.nav a {text-decoration: none;}
+.nav strong {padding: 1.5em;}
+.nav a, .nav span {padding: 3px;}
+
+dd {margin: 0; padding: 0 0 1em 0;}
+
+.head {width: 424px; border: 1px solid #eee;}
+.head img {width: 202px; margin: 4px 4px 0; border: none;}
+
+.overview {
+  background-color: #eee;
+  padding: 1em;
+}
